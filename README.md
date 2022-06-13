@@ -1,3 +1,3 @@
-<h1 align="center"> Modulo Edesk Estampillas Departamento de Santander</h1>
+<h1 align="center"> Módulo Edesk Estampillas Departamento de Santander</h1>
 
-Prueba para desarrollar el modulo de Estampillas Santander
+- Desarrollo del módulo de Estampillas Santander
